@@ -1,1 +1,2 @@
 # Area_and_volume_calculation
+This program is a geometric shape calculator in Java. It calculates and displays the areas of various shapes based on user-input dimensions. The user inputs a common side (side A), which is used as a side for a rectangle, a triangle, and as the radius for a circle. They also input side B for the rectangle, and a height common for a cuboid, prism, and cylinder. The program then calculates the areas of these shapes - rectangle, cuboid, triangle, prism, circle, and cylinder - and displays the results in square centimeters.
